@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/dimarevelis/dima-test3.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dimarevelis/dima-test3/issues"
   },
